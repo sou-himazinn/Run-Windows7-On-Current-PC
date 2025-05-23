@@ -1,3 +1,7 @@
-# Project to run Windows 7 on current PCs
+# Run-Windows7-On-Current-PC
 
 このプロジェクトはWindows7を現役のPCで動作させるプロジェクトです。
+
+極力OS本体の変更を避け、ドライバ適応などをし、現役のPCで動作できるようにします。
+
+※このプロジェクトは現在進行中です。公開可能になった時点で公開を行います。
